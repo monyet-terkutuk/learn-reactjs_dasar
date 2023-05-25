@@ -6,13 +6,14 @@ Latihan belajar react secara ototodidak.
 
 Class Componen:
 
-### `import React, { Component } from 'react'
+import React, { Component } from 'react'
 
 export class Profile extends Component {
 static propTypes = {}
 
 render() {
 return (
+
 <div>
 <h1>Latihan React</h1>
 </div>
@@ -20,4 +21,4 @@ return (
 }
 }
 
-export default Profile`
+export default Profile
